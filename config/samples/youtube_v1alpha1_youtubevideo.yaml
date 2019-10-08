@@ -1,0 +1,7 @@
+apiVersion: youtube.pablokbs.com/v1alpha1
+kind: YouTubeVideo
+metadata:
+  name: youtubevideo-sample
+spec:
+  # Add fields here
+  foo: bar

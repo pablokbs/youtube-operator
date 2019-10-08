@@ -1,0 +1,7 @@
+version: "2"
+domain: pablokbs.com
+repo: example.com/m
+resources:
+- group: youtube
+  version: v1alpha1
+  kind: YouTubeVideo
